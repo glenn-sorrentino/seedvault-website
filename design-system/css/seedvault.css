@@ -1,3 +1,37 @@
 .icon.calyx {
   background-image: url("../../assets/images/lm-logo-calyx.png");
 }
+
+@media (prefers-color-scheme: light) {
+
+  .intro .primaryBtn {
+      background-color: white;
+      color: #645CFF;
+  }
+
+  header .btn {
+    background-color: transparent;
+    border: var(--border-dm);
+  }
+
+  header {
+    background-color: #645CFF !important;
+  }
+
+  header a {
+    color: white !important;
+  }
+
+  .intro {
+    background-color: #645CFF !important;
+  }
+
+  .intro h1 {
+    color: white;
+  }
+
+  .intro p {
+    color: white;
+  }
+
+}
