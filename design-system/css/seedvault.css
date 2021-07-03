@@ -4,9 +4,13 @@
 
 @media (prefers-color-scheme: light) {
 
+  .navbar-toggle {
+    background-image: url("../assets/nav/dm-icon-menu.png") !important;
+  }
+
   .intro .primaryBtn {
       background-color: white;
-      color: #645CFF;
+      color: #197CA3;
   }
 
   header .btn {
@@ -15,7 +19,7 @@
   }
 
   header {
-    background-color: #645CFF !important;
+    background-color: #197CA3 !important;
   }
 
   header a {
@@ -23,15 +27,15 @@
   }
 
   .intro {
-    background-color: #645CFF !important;
-  }
-
-  .intro h1 {
-    color: white;
+    background-color: #197CA3 !important;
   }
 
   .intro p {
     color: white;
+  }
+
+  .highlighter {
+    background-color: #6CCAF0;
   }
 
 }
