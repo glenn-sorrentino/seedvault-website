@@ -100,6 +100,11 @@
 
 .intro .highlighter {
   padding: var(--spacing-xsmall) 0 0 var(--spacing-xxsmall);
+  border-radius: var(--radius-base);
+}
+
+.highlighter {
+  border-radius: var(--radius-base);
 }
 
 .withNav {
