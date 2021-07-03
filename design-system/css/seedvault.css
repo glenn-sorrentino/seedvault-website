@@ -39,3 +39,7 @@
   }
 
 }
+
+.logoMark {
+  background-image: url('../assets/nav/seedvault-logo.png') !important;
+}
