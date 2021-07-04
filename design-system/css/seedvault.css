@@ -44,6 +44,26 @@
 
 }
 
+@media (prefers-color-scheme: dark) {
+  .intro {
+    background-color: #22273D !important;
+  }
+
+  .intro h1 {
+    color: #22273D !important;
+  }
+
+  header {
+    background-color: #22273D !important;
+  }
+
+  .highlighter {
+    background-color: #3CBDF0 !important;
+    color: #22273D !important;
+  }
+
+}
+
 .logoMark {
   background-image: url('../assets/nav/seedvault-logo.png') !important;
 }
