@@ -47,3 +47,7 @@
 .logoMark {
   background-image: url('../assets/nav/seedvault-logo.png') !important;
 }
+
+.intro.withImage .wrapper {
+  background: no-repeat url('../assets/images/intro/seedvault.png');
+}
