@@ -30,6 +30,10 @@
     background-color: #197CA3 !important;
   }
 
+  .intro h1 {
+    color: #074057;
+  }
+
   .intro p {
     color: white;
   }
